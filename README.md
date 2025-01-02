@@ -12,6 +12,11 @@
 - [Wordle React](https://github.com/nntdgrss/Wordle-React) - Популярная игра где нужно угадать слово из 5 букв за 6 попыток.
 - [Whistle Detector](https://github.com/nntdgrss/whistle-detector) - Простой детектор свиста с микрофона используя спектограмму.
 
+## 🌌 Цели пет-проектов
+- Разработка **DonationAlerts**
+- Разработка **TikTok**
+- Разработка **Dodo Pizza**
+
 ## 📫 Контакты
 - Email: dsenyx@gmail.com
 - Telegram: [@kusambrero](https://t.me/kusambrero)
