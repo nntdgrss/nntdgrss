@@ -10,7 +10,7 @@
 
 ## 🚀 Проекты
 - [Wordle React](https://github.com/nntdgrss/Wordle-React) - Популярная игра где нужно угадать слово из 5 букв за 6 попыток. [Попробовать в Vercel](https://wordle-react-murex.vercel.app/)
-- [Whistle Detector](https://github.com/nntdgrss/whistle-detector) - Простой детектор свиста с микрофона используя спектограмму.
+- [ContextCollector](https://github.com/nntdgrss/ContextCollector) - Сборщик контекста для LLM моделей прямо на вашем ПК.
 
 ## 🌌 Цели пет-проектов
 - Разработка **DonationAlerts**
