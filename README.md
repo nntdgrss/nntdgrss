@@ -1,18 +1,17 @@
-# Hi, my name is Семён 👋
+# 👋 @nntdgrss
 
-## 🛠️ Навыки
-- **Языки программирования**: Python, JavaScript, TypeScript, Java, Go, Dart, 
-- **Фреймворки**: React, NextJS, NestJS, Elysia.JS
-- **Инструменты**: Git, Docker, Yarn, PostgreSQL, Redis, Prisma, Bun
+## Я - Fullstack веб-разработчик
 
-## 🚀 Проекты
-- [Wordle React](https://github.com/nntdgrss/Wordle-React) - Популярная игра где нужно угадать слово из 5 букв за 6 попыток. [Попробовать в Vercel](https://wordle-react-murex.vercel.app/)
-- [ContextCollector](https://github.com/nntdgrss/ContextCollector) - Сборщик контекста для LLM моделей прямо на вашем ПК.
+### Технологии
+- **Frontend**: React, Next.js, TypeScript, JavaScript, Tailwind, HTML, CSS
+- **Backend**: Node.js, NestJS, Bun, Elysia.JS, Prisma, PostgreSQL, Redis, Docker
+- **Другое**: Java, C#
 
-## 📫 Контакты
-- Email: dsenyx@gmail.com
+### Проекты
+- Wordle на русском языке
+- Сборщик контекста для LLM моделей
+
+### Контакты
 - Telegram: [@kusambrero](https://t.me/kusambrero)
-- VK: [@sem9nbroos](https://vk.com/sem9nbroos)
 
-## 📊 Статистика GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nntdgrs&show_icons=true&theme=radical)
+![GitHub статистика](https://github-readme-stats.vercel.app/api/top-langs/?username=nntdgrss&layout=compact&theme=dark)
