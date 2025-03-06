@@ -8,6 +8,7 @@
 - **Другое**: Java, C#
 
 ### Проекты
+- HolyJournal для проекта [HolyWorld](https://holyworld.ru/) - [Открыть](https://journal.holyworld.me/)
 - Wordle на русском языке
 - Сборщик контекста для LLM моделей
 
