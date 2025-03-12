@@ -9,8 +9,8 @@
 
 ### Проекты
 - HolyJournal для проекта [HolyWorld](https://holyworld.ru/) - [Открыть](https://journal.holyworld.me/)
+- TikTok Ball - популярный фон для ТикТок нарезок уже в игре - [Играть](https://tiktok-ball.vercel.app/)
 - Wordle на русском языке
-- Сборщик контекста для LLM моделей
 
 ### Контакты
 - Telegram: [@kusambrero](https://t.me/kusambrero)
