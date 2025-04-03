@@ -1,8 +1,11 @@
-# 👋 @nntdgrss
+<div align="center">
+👋 @nntdgrss
 
 ## Я - Fullstack веб-разработчик
 
 ### Технологии
+</div>
+
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" alt="HTTP" title="HTTP"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/websocket.png" alt="websocket" title="websocket"/></code>
@@ -40,9 +43,11 @@
 </div>
 
 ### Проекты
+	
+- CodeFlow - мой лучший проект, без слов, просто [Посмотри](https://github.com/nntdgrss/code-flow)
 - HolyJournal для проекта [HolyWorld](https://holyworld.ru/) - [Открыть](https://journal.holyworld.me/)
 - TikTok Ball - популярный фон для ТикТок нарезок уже в игре - [Играть](https://tiktok-ball.vercel.app/)
-- Wordle на русском языке
+- Wordle на русском языке - [Изучить и попробывать](https://github.com/nntdgrss/Wordle-React)
 
 ### Контакты
 - Telegram: [@kusambrero](https://t.me/kusambrero)
