@@ -52,4 +52,4 @@
 ### Контакты
 - Telegram: [@kusambrero](https://t.me/kusambrero)
 
-![GitHub статистика](https://github-readme-stats.vercel.app/api/top-langs/?username=nntdgrss&layout=compact&theme=dark)
+![nntdgrss's Most Used Languages](https://c46b6d3d-e775-4b6b-a993-cb386d62f9e4.lovableproject.com/api/languages/nntdgrss)
