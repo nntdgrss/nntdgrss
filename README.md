@@ -44,7 +44,6 @@
 
 ### Проекты
 	
-- CodeFlow - мой лучший проект, без слов, просто [Посмотри](https://github.com/CodeFlowWeb)
 - HolyJournal для проекта [HolyWorld](https://holyworld.ru/) - [Открыть](https://journal.holyworld.me/)
 - TikTok Ball - популярный фон для ТикТок нарезок уже в игре - [Играть](https://tiktok-ball.vercel.app/)
 - Wordle на русском языке - [Изучить и попробывать](https://github.com/nntdgrss/Wordle-React)
