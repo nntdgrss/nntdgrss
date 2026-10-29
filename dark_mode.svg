@@ -62,7 +62,7 @@ text, tspan {white-space: pre;}
 <text x="400" y="30" fill="#c9d1d9">
 <tspan x="400" y="30">sam@nntdgrss</tspan> -———————————————————————————————————————————-—-
 <tspan x="400" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">Windows 11, iOS 27, Linux</tspan>
-<tspan x="400" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ..................... </tspan><tspan class="value" id="age_data">17 years, 11 months, 18 days</tspan>
+<tspan x="400" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ..................... </tspan><tspan class="value" id="age_data">18 years, 00 months, 22 days</tspan>
 <tspan x="400" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">Open to offers :)</tspan>
 <tspan x="400" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Software Engineer (student)</tspan>
 <tspan x="400" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">ZED 1.21.0, VSCode 1.139.1</tspan>
